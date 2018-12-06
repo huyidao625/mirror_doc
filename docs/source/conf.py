@@ -11,7 +11,8 @@
 #
 # All configuration values have a default; values that are commented out
 # serve to show the default.
-
+import sys
+sys.path.append('../../')
 import sphinx_nameko_theme
 import pkg_resources
 import sys
