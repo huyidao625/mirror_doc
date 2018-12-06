@@ -14,7 +14,7 @@ setup(
       packages=find_packages(),
       description="1.6.7a7",
       install_requires=[
-         
+         'sphinx_nameko_theme',
           'nameko',
           'Cheetah3',
           'DBUtils',
