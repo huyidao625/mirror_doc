@@ -16,7 +16,6 @@ setup(
       install_requires=[
           'sphinx_nameko_theme',
           'nameko',
-          'mirror_logstash',
           'Cheetah3',
           'DBUtils',
           'elasticsearch_dsl',
