@@ -1,0 +1,6 @@
+<h3>自定义链接</h3>
+<ul>
+	<li><a href="http://192.168.2.100/mirrorgroup/mirror">Mirror Repository</a>
+	<li><a href="http://192.168.2.100/mirrorgroup/mirror/wikis/home">Mirror Wiki</a>
+    <li><a href="http://192.168.2.100/mirrorgroup/mirror/issues">Mirror 问题提交</a>
+</ul>
